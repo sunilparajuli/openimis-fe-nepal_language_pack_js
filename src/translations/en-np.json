@@ -1,7 +1,7 @@
 {
   "appName": "openIMIS",
   "close": "Close",
-  "currency": "TZS",
+  "currency": "NPR",
   "rowsPerPage": "Rows Per Page",
   "ofPages": "of",
   "selectAll": "Select All",
@@ -1109,6 +1109,7 @@
   "core.Autocomplete.closeText": "Close",
   "core.Autocomplete.placeholder": "Search...",
   "core.table.resultsLoading": "Loading...",
+  "core.calendarSwitcher": "BS/AD",
   "LanguagePicker.label": "Language",
   "core.Language.null": "",
   "admin.UserPicker.label": "User",

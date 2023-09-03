@@ -8,6 +8,6 @@ const DEFAULT_CONFIG = {
   ],
 };
 
-export const NepalLanguageModule = (cfg) => {
+export const NepalLanguagePackModule = (cfg) => {
   return { ...DEFAULT_CONFIG, ...cfg };
 };
